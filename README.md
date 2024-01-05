@@ -4,6 +4,10 @@
 
 LaborLog Lite is an Android application developed using the B4XPage framework. This application is designed to facilitate the registration and consultation of working hours and duration, as well as the automatic calculation of the number of hours worked. With a simple and modern interface, LaborLog Lite provides an organized experience for users to efficiently manage their working time.
 
+![LaborLog Lite](parte1.jpg)
+![LaborLog Lite](parte2.jpg)
+![LaborLog Lite](parte3.jpg)
+
 ### Features
 
 1. **Time Entry and Exit Logging:**
