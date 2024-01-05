@@ -1,6 +1,6 @@
-![LaborLog Lite Logo](Blue Modern Money Managing Mobile App Promotion Facebook Ad.jpg)
+![LaborLog Lite Logo](Blue.jpg)
 
-![LaborLog Lite Logo](./Blue Modern Money Managing Mobile App Promotion Facebook Ad.jpg)
+![LaborLog Lite Logo](./Blue.jpg)
 
 ### App Description
 
